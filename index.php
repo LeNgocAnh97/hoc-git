@@ -38,7 +38,7 @@
 </SCRIPT>
 <!-------------------------Header------------------------>
 <div id="header">
-    <h1>Trang web tìm kiếm việc làm </h1>
+    <h1>Trang web tìm kiếm việc làm sửa đổi. </h1>
 </div>
 
 <nav class="navbar navbar-default">
